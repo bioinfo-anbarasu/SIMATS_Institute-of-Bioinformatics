@@ -9,7 +9,6 @@
 
 
 
-
 🧬SR-PLOT: An Interactive Gene Ontology Enrichment and Visualization Web Application
 
 SR-PLOT is a modern, web-based application designed to perform Gene Ontology (GO) enrichment analysis and present the results through interactive, publication-ready visualizations. The application focuses on transforming complex biological enrichment data into clear, interpretable plots, enabling users to explore functional patterns within gene sets efficiently.
